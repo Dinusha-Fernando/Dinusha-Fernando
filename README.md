@@ -1,7 +1,5 @@
-Certainly! Here's a Markdown template for your GitHub profile README:
 
-```markdown
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Dinusha-Fernando
 
 <div align="center">
   <img src="[your-banner-image-url]" alt="Banner" width="100%"/>
@@ -12,10 +10,10 @@ Certainly! Here's a Markdown template for your GitHub profile README:
 ```python
 class Developer:
     def __init__(self):
-        self.name = "[Your Name]"
+        self.name = "[W.M. Dinusha Kalhara Fernando]"
         self.role = "Software Developer"
-        self.languages = ["Python", "JavaScript", "Java"]
-        self.interests = ["Web Development", "AI/ML", "Open Source"]
+        self.languages = ["Dart","Python", "JavaScript", "Java","C#"]
+        self.interests = ["Cross-Platform Development","Web Development", "AI/ML", "Open Source"]
         self.current_focus = "Building awesome projects!"
 
 me = Developer()
@@ -31,14 +29,18 @@ me = Developer()
 ## 🚀 Skills & Technologies
 
 ### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-6A4E23?style=for-the-badge&logo=java&logoColor=white)
 
 ## 🌟 Featured Projects
 
@@ -53,21 +55,21 @@ me = Developer()
 
 ## 🎯 Current Focus
 
-- 🔭 I'm currently working on [Project Name]
-- 🌱 I'm learning [Technology/Skill]
+- 🔭 I'm currently working on [Flutter Project]
+- 🌱 I'm learning [Flutter,React Native,PHP,AI/ML,Node.js,Version Control ,Database Management,Mobile App Development]
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web development and software architecture
 
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="www.linkedin.com/in/dinusha-fernando">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername">
+ /* <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  </a>*/
+  <a href="mailto:dinushafdo9998@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -82,32 +84,3 @@ me = Developer()
   <i>⭐️ If you like my projects, feel free to star them and show some love! ⭐️</i>
 </div>
 ```
-
-**Instructions:**
-
-1. **Replace Placeholders:**
-   - `[Your Name]`: Your full name.
-   - `[your-banner-image-url]`: URL of your banner image.
-   - `yourusername`: Your GitHub username.
-   - `[Project Name]`: Name of a project you're currently working on.
-   - `[Technology/Skill]`: Technology or skill you're learning.
-   - `your.email@example.com`: Your email address.
-
-2. **Add Projects:**
-   - Replace `project1` and `project2` with the names of your repositories.
-
-3. **Customize Links:**
-   - Update the LinkedIn and Twitter URLs with your profiles.
-
-4. **Add Banner Image:**
-   - Ensure the banner image URL is correct and points to an image you'd like to display.
-
-**Additional Resources:**
-
-- For more inspiration and templates, you can explore repositories like [Awesome Github Profile Templates](https://github.com/suryakantamangaraj/AwesomeGithubProfileTemplates) and [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates).
-
-- To generate a customized README, consider using tools like [Profile Readme Generator](https://profile-readme-generator.com/) or [GitHub Profile README Generator](https://github-readmegenerator.netlify.app/).
-
-For a comprehensive guide on managing your profile README, refer to GitHub's official documentation: ([docs.github.com](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme?utm_source=chatgpt.com))
-
-Remember to preview your README to ensure all links and images display correctly before finalizing. 

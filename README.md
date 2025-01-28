@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Dinusha-Fernando
 
 <div align="center">
-  <img src="[your-banner-image-url]" alt="Banner" width="100%"/>
+  <img src=""C:\Users\Dinusha\Pictures\DALL·E 2024-12-28 22.59.01 - A visually stunning and professional LinkedIn background photo featuring a modern and sleek design. The image should include the name 'W.M. Dinusha Ka.webp"" alt="Banner" width="100%"/>
 </div>
 
 ## 💫 About Me
@@ -63,9 +63,11 @@ me = Developer()
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="www.linkedin.com/in/dinusha-fernando">
+  <a href="https://www.linkedin.com/in/dinusha-fernando">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
+
  /* <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>*/

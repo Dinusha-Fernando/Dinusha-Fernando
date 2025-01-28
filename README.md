@@ -45,7 +45,7 @@ me = Developer()
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
+  <a href="[https://github.com/yourusername/project1](https://github.com/Dinusha-Fernando/Contact-app-project.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
   </a>
   <a href="https://github.com/yourusername/project2">

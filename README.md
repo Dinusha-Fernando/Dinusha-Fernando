@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Dinusha-Fernando
 
 <div align="center">
-  <img src=""C:\Users\Dinusha\Pictures\DALL·E 2024-12-28 22.59.01 - A visually stunning and professional LinkedIn background photo featuring a modern and sleek design. The image should include the name 'W.M. Dinusha Ka.webp"" alt="Banner" width="100%"/>
+  <img src="https://your-image-hosting-site.com/path-to-image.webp" alt="Banner" width="100%"/>
 </div>
 
 ## 💫 About Me

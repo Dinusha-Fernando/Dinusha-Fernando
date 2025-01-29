@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Dinusha-Fernando
 
 <div align="center">
-  <img src="https://your-image-hosting-site.com/path-to-image.webp" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.png" alt="Banner" width="100%"/>
 </div>
 
 ## 💫 About Me

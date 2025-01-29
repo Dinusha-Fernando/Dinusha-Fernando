@@ -45,11 +45,11 @@ me = Developer()
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="[https://github.com/yourusername/project1](https://github.com/Dinusha-Fernando/Contact-app-project.git)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
+  <a href="https://github.com/Dinusha-Fernando/Contact-app-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Contact-app-project&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
+  <a href="https://github.com/Dinusha-Fernando/Job_App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Job_App&theme=radical" />
   </a>
 </div>
 

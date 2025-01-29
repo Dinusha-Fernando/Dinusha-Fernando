@@ -48,9 +48,27 @@ me = Developer()
   <a href="https://github.com/Dinusha-Fernando/Contact-app-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Contact-app-project&theme=radical" />
   </a>
-  <a href="https://github.com/Dinusha-Fernando/Job_App">
+   <a href="https://github.com/Dinusha-Fernando/Job_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Job_App&theme=radical" />
   </a>
+
+  <a href="https://github.com/Dinusha-Fernando/Joy_Kalpitiya-webSite.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Contact-app-project&theme=radical" />
+  </a>
+
+  <a href="https://github.com/Dinusha-Fernando/Student_Registration_System.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Contact-app-project&theme=radical" />
+  </a>
+
+  <a href="https://github.com/Dinusha-Fernando/Weather_App.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Contact-app-project&theme=radical" />
+  </a>
+
+   <a href="https://github.com/Dinusha-Fernando/Furniture_Villa-webPage.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Contact-app-project&theme=radical" />
+  </a>
+  
+ 
 </div>
 
 ## 🎯 Current Focus

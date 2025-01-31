@@ -12,11 +12,12 @@ class Developer:
     def __init__(self):
         self.name = "[W.M. Dinusha Kalhara Fernando]"
         self.role = "Software Developer"
-        self.languages = ["Dart","Python", "JavaScript", "Java","C#"]
-        self.interests = ["Cross-Platform Development","Web Development", "AI/ML", "Open Source"]
-        self.current_focus = "Building awesome projects!"
+        self.languages = ["Dart", "Python", "JavaScript", "Java", "C#"]
+        self.interests = ["Cross-Platform Development", "Web Development", "AI/ML", "Open Source"]
+        self.current_focus = "Building awesome projects with AI/ML!"
 
 me = Developer()
+
 ```
 
 ## 📊 GitHub Statistics

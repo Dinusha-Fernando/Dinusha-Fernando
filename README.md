@@ -52,7 +52,7 @@ me = Developer()
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Job_App&theme=radical" />
   </a>
 
-  <a href="https://github.com/Dinusha-Fernando/Joy_Kalpitiya-webSite.git">
+  <a href="https://github.com/Dinusha-Fernando/Joy_Kalpitiya-webSite">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Contact-app-project&theme=radical" />
   </a>
 

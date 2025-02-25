@@ -47,9 +47,11 @@ me = Developer()
 
 <div align="center">
 
- <a href="https://github.com/Dinusha-Fernando/Portfolio_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Portfolio_Website&theme=radical" />
+
+<a href="https://github.com/Dinusha-Fernando/Portfolio-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Portfolio-Website&theme=radical" />
 </a>
+
 
 
   <a href="https://github.com/Dinusha-Fernando/Contact-app-project">

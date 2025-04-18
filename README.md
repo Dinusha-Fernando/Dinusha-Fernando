@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Dinusha-Fernando
+# Hi there! 👋 I'm Dinusha Fernando
 
 <div align="center">
   <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" alt="Banner" width="100%"/>

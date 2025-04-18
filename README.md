@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Dinusha-Fernando
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png)" alt="Banner" width="100%"/>
+  <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" alt="Banner" width="100%"/>
 </div>
 
 ## 💫 About Me

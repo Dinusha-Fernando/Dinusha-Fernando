@@ -82,8 +82,8 @@ me = Developer()
 
 ## 🎯 Current Focus
 
-- 🔭 I'm currently working on [Flutter Project]
-- 🌱 I'm learning [Flutter,React Native,PHP,AI/ML,Node.js,Version Control ,Database Management,Mobile App Development]
+- 🔭 I'm currently working on Flutter Project
+- 🌱 I'm learning Flutter,React Native,PHP,AI/ML,Node.js,Version Control ,Database Management,Mobile App Development
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web development and software architecture
 

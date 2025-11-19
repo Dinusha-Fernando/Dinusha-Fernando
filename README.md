@@ -13,24 +13,11 @@ class Developer:
         self.name = "W.M. Dinusha Kalhara Fernando"
         self.role = "Software Developer"
         self.languages = [
-            "Python",
-            "Dart",
-            "JavaScript",
-            "TypeScript",
-            "Java",
-            "C#",
-            "SQL",
-            
-        ]
+            "Python","Dart","JavaScript","TypeScript","Java","C#","SQL",
+            ]
         self.frameworks = [
-            "Django",
-            "React",
-            "React Native",
-            "Flutter",
-            "Node.js",
-            ".NET",
-            "Swing"
-        ]
+            "Django", "React","React Native","Flutter","Node.js",".NET","Swing"
+          ]
         self.interests = [
             "Backend Developer",
             "Ful-stack Developer",

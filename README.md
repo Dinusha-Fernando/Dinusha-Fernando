@@ -1,4 +1,3 @@
-```markdown
 <!-- ========================================= -->
 <!--          GitHub Profile README            -->
 <!-- ========================================= -->
@@ -235,4 +234,3 @@ An AI-powered **Domain Risk Intelligence Platform** that analyzes historical web
 ⭐ **If you like my work, consider starring my repositories!**
 
 </p>
-```

@@ -1,4 +1,8 @@
 ```markdown
+<!-- ========================================= -->
+<!--          GitHub Profile README            -->
+<!-- ========================================= -->
+
 <h1 align="center">Hi 👋, I'm W.M. Dinusha Kalhara Fernando</h1>
 
 <h3 align="center">

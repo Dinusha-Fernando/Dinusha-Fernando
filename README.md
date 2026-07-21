@@ -1,140 +1,207 @@
+<!-- ========================================= -->
+<!--          GitHub Profile README            -->
+<!-- ========================================= -->
 
-# Hi there! 👋 I'm Dinusha Fernando
+<h1 align="center">Hi 👋, I'm W.M. Dinusha Kalhara Fernando</h1>
 
-<div align="center">
-  <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" alt="Banner" width="100%"/>
-</div>
+<h3 align="center">
+Software Engineer • Full Stack Developer • AI Enthusiast
+</h3>
 
-## 💫 About Me
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Software+Engineer;Full+Stack+Developer;Python+Developer;React+Developer;Flutter+Developer;AI+Application+Developer;Backend+Developer;Always+Learning+New+Technologies" />
+</p>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "W.M. Dinusha Kalhara Fernando"
-        self.role = "Software Developer"
-        self.languages = [
-            "Python","Dart","JavaScript","TypeScript","Java","C#","SQL",
-            ]
-        self.frameworks = [
-            "Django", "React","React Native","Flutter","Node.js",".NET","Swing"
-          ]
-        self.interests = [
-            "Backend Developer",
-            "Ful-stack Developer",
-            "Cross-Platform Development",
-            "Web Development",
-            "AI/ML",
-            "Open Source",
-            "Cloud Computing"
-        ]
-        self.current_focus = "Building AI-powered mobile and web applications!"
-
-me = Developer()
-
-
-```
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
-</div>
-
-## 🚀 Skills & Technologies
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-6A4E23?style=for-the-badge&logo=java&logoColor=white)
-
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-
-<a href="https://github.com/Dinusha-Fernando/Portfolio-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Portfolio-Website&theme=radical" />
-</a>
-
-
-<a href="https://github.com/Dinusha-Fernando/Contact-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Contact-App&theme=radical" />
-</a>
-
-
-  <a href="https://github.com/Dinusha-Fernando/Touria-Mobile-App-Flutter-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Touria-Mobile-App-Flutter-&theme=radical" />
-</a>
-
-
-  <a href="https://github.com/Dinusha-Fernando/Job_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Job_App&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Dinusha-Fernando/Joy_Kalpitiya-webSite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Joy_Kalpitiya-webSite&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Dinusha-Fernando/Student_Registration_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Student_Registration_System&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Dinusha-Fernando/Weather_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Weather_App&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Dinusha-Fernando/Furniture_Villa-webPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinusha-Fernando&repo=Furniture_Villa-webPage&theme=radical" />
-  </a>
-</div>
-
-
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on React,Python,Flutter Projects
-- 🌱 I'm learning Python,React,Flutter,React Native,PHP,AI/ML,Node.js,Version Control ,Database Management,Mobile App Development
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development and software architecture
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dinusha-fernando">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-
-
-  <a href="mailto:dinushafdo9998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+<p align="center">
+Building scalable web applications, AI-powered systems, and cross-platform mobile applications with modern technologies.
+</p>
 
 ---
 
-<div align="center">
-  <i>⭐️ If you like my projects, feel free to star them and show some love! ⭐️</i>
-</div>
-```
+# 👨‍💻 About Me
+
+I'm a passionate **Software Engineer** from **Sri Lanka** who enjoys solving real-world problems through technology.
+
+I love building scalable applications, REST APIs, AI-powered systems, and beautiful user experiences.
+
+- 🔭 Currently working on **AI Powered Web Applications**
+- 🌱 Currently learning **AI, Cloud Computing, DevOps & System Design**
+- 💡 Interested in **Backend Engineering, AI, Flutter, React and Software Architecture**
+- 👯 Open to collaborating on **Open Source Projects**
+- ⚡ Fun Fact: I enjoy turning complex ideas into simple software.
+
+---
+
+# 🚀 Current Project
+
+## 🛡️ ChronoSentinel AI
+
+An AI-powered **Domain Risk Intelligence Platform** that analyzes historical website snapshots using the Internet Archive Wayback Machine.
+
+### Features
+
+- 🔍 Historical Website Analysis
+- 🤖 AI Content Classification
+- ⚠️ Adult Content Detection
+- 🎰 Gambling Detection
+- 🛡 Malware Detection
+- 🎣 Phishing Detection
+- 📊 Analytics Dashboard
+- 📈 Timeline Visualization
+- ⚡ FastAPI Backend
+- ⚛️ React Frontend
+- 🐳 Docker Deployment
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,dart,js,ts,java,cs,html,css,sql" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,dotnet,fastapi" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma,postman" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🛡 ChronoSentinel AI | AI-powered Domain Risk Intelligence System | FastAPI • React • PostgreSQL • Docker |
+| 🌍 Touria Mobile App | Travel Mobile Application | Flutter • Firebase |
+| 💼 Portfolio Website | Personal Portfolio | React |
+| 📱 Contact App | Contact Management App | Flutter |
+| 💻 Job App | Job Portal Platform | React |
+| 🎓 Student Registration System | Desktop Management System | Java |
+| 🌦 Weather App | Weather Forecast Application | React |
+| 🪑 Furniture Villa | Business Website | HTML • CSS • JavaScript |
+
+---
+
+# 💼 Experience
+
+### Software Engineering Intern
+
+**National Apprentice and Industrial Training Authority (NAITA)**
+
+- Developed enterprise web applications
+- Built responsive React interfaces
+- Integrated REST APIs
+- Worked with databases
+- Collaborated within development teams
+
+---
+
+# 🏆 Certifications
+
+- 🎖 AI/ML Engineer Stage 1
+- 🎖 Higher National Diploma in Information Technology
+- 🎖 Diploma in Information Technology
+- 🎖 Python Certification
+- 🎖 Diploma in English
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinusha-Fernando&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinusha-Fernando&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinusha-Fernando&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinusha-Fernando&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Docker & Kubernetes
+- DevOps
+- Microservices
+- Software Architecture
+- Clean Code Principles
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dinusha-fernando">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dinushafdo9998@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dinusha-Fernando">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Dinusha-Fernando&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 *"Code. Learn. Build. Improve. Repeat."*
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
